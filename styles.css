@@ -1,0 +1,19 @@
+
+.card{
+    margin:2%;
+    margin-left: 5%;
+    width:200px;
+}
+.card-img-top{
+    margin-top:2%;
+}
+h1{
+    font-family: cursive;
+    font-style:italic;
+}
+.btn btn-info{
+    margin-right:20px;
+}
+.onephoto{
+    width:600px;
+}
